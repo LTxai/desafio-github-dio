@@ -1,0 +1,12 @@
+{
+  "name": "operadores-js",
+  "version": "1.0.0",
+  "description": "Exercícios de Operadores js do basecamp de Javascript da Digital Inovation One",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "author": "Lucas Txai",
+  "license": "ISC"
+}
